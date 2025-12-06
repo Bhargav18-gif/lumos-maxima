@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HiddenPaths",
+  "description": "AI-powered discovery of authentic, off-the-beaten-track local experiences, itineraries, and guides.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
